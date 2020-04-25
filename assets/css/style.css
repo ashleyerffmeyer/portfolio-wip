@@ -20,7 +20,7 @@ body {
 } 
 
   .typewriter h1 {
-    color: white;
+    color: black;
     font-family: monospace;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
    /*border-right: .15em solid black; The typwriter cursor */
@@ -51,7 +51,7 @@ body {
   }
 
   h1 {
-    padding-top: 25%;
+    padding-top: 20%;
   }
 
   h2, h3, h4, h5, p, ul{
